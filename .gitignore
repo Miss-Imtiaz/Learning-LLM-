@@ -1,0 +1,9 @@
+# Ignore any .env file anywhere in the project
+.env
+**/.env
+.env.*
+   .env.local
+   venv/
+   .venv/
+   *.bin
+   *.pkl
